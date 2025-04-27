@@ -34,7 +34,7 @@ TELEGRAM_CHAT_ID = "5721363432"
 NOTIFICATION_INTERVAL = 300  # 5 menit dalam detik
 ALERT_COOLDOWN = 60  # 1 menit cooldown untuk notifikasi langsung
 CAMERA_URL = "http://192.168.1.12:81/stream"  # URL kamera ESP32-CAM
-GEMINI_API_KEY = "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"
+GEMINI_API_KEY = "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"
 GEMINI_MODEL = "google/gemini-flash-1.5"
 
 # --- STYLE ---
